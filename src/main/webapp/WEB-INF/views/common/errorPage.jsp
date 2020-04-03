@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 align="center">OhDogCat</h1>
+	<h1 align="center">에러 페이지</h1>
 </body>
 </html>

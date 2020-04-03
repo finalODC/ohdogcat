@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 align="center">OhDogCat</h1>
+	<h1 align="center">board</h1>
 </body>
 </html>
